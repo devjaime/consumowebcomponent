@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import * as webcomponent from '../assets/js/my-element.js';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
